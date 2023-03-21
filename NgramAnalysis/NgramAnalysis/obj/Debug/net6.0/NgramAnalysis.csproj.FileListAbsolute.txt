@@ -1,0 +1,15 @@
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/NgramAnalysis
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/NgramAnalysis.deps.json
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/NgramAnalysis.runtimeconfig.json
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/NgramAnalysis.dll
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/ref/NgramAnalysis.dll
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/bin/Debug/net6.0/NgramAnalysis.pdb
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.csproj.AssemblyReference.cache
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.AssemblyInfoInputs.cache
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.AssemblyInfo.cs
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.csproj.CoreCompileInputs.cache
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.dll
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/ref/NgramAnalysis.dll
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.pdb
+/Users/cagriergin/Development/Github Projects/NgramAnalysisNew/NgramAnalysis/NgramAnalysis/obj/Debug/net6.0/NgramAnalysis.genruntimeconfig.cache
